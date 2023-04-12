@@ -1,0 +1,16 @@
+names:
+- Caries
+- Crown
+- Filling
+- Implant
+- Root canal obturation
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: ss-u9jm7
+  url: https://universe.roboflow.com/arshs-workspace-aiotg/ss-u9jm7/dataset/1
+  version: 1
+  workspace: arshs-workspace-aiotg
+test: /home/dalia/Downloads/doll/yolo8-dataset/ss-1/train/images/
+train: /home/dalia/Downloads/doll/yolo8-dataset/ss-1/train/images/
+val: /home/dalia/Downloads/doll/yolo8-dataset/ss-1/valid/images/
